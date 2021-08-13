@@ -1,4 +1,4 @@
-## Pick<T, K>
+## Pick<T, K> <img src="https://img.shields.io/badge/-easy-7aad0c" alt="easy"/>
 
 实现一个 Pick。
 `K extends keyof T`, keyof T 首先会生成一个 T 对象的 key 的联合类型，然后给到 K。
