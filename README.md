@@ -14,4 +14,4 @@ Here is the answers collection of [type-challenges](https://github.com/type-chal
 
 [Readonly](https://github.com/yuetong3yu/type-challenges/blob/master/collection/Readonly.md)
 
-[Readonly](https://github.com/yuetong3yu/type-challenges/blob/master/collection/tuple-to-object.md)
+[Tuple to Object](https://github.com/yuetong3yu/type-challenges/blob/master/collection/tuple-to-object.md)
