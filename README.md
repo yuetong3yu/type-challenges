@@ -16,4 +16,4 @@ Here is the answers collection of [type-challenges](https://github.com/type-chal
 
 [Tuple to Object](https://github.com/yuetong3yu/type-challenges/blob/master/collection/tuple-to-object.md)
 
-[First to Array](https://github.com/yuetong3yu/type-challenges/blob/master/collection/first-to-array.md)
+[First to Array](https://github.com/yuetong3yu/type-challenges/blob/master/collection/first-of-array.md)
