@@ -13,3 +13,5 @@ Here is the answers collection of [type-challenges](https://github.com/type-chal
 [Pick<T, K>](https://github.com/yuetong3yu/type-challenges/blob/master/collection/Pick%3CT%2C%20K%3E.md)
 
 [Readonly](https://github.com/yuetong3yu/type-challenges/blob/master/collection/Readonly.md)
+
+[Readonly](https://github.com/yuetong3yu/type-challenges/blob/master/collection/tuple-to-object.md)
