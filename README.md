@@ -15,3 +15,5 @@ Here is the answers collection of [type-challenges](https://github.com/type-chal
 [Readonly](https://github.com/yuetong3yu/type-challenges/blob/master/collection/Readonly.md)
 
 [Tuple to Object](https://github.com/yuetong3yu/type-challenges/blob/master/collection/tuple-to-object.md)
+
+[First to Array](https://github.com/yuetong3yu/type-challenges/blob/master/collection/first-to-array.md)
