@@ -19,3 +19,5 @@ Here is the answers collection of [type-challenges](https://github.com/type-chal
 [First to Array](https://github.com/yuetong3yu/type-challenges/blob/master/collection/first-of-array.md)
 
 [Length of Tuple](https://github.com/yuetong3yu/type-challenges/blob/master/collection/length-of-tuple.md)
+
+[Awaited](https://github.com/yuetong3yu/type-challenges/blob/master/collection/awaited.md)
