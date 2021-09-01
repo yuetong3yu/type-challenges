@@ -21,3 +21,5 @@ Here is the answers collection of [type-challenges](https://github.com/type-chal
 [Length of Tuple](https://github.com/yuetong3yu/type-challenges/blob/master/collection/length-of-tuple.md)
 
 [Awaited](https://github.com/yuetong3yu/type-challenges/blob/master/collection/awaited.md)
+
+[Awaited](https://github.com/yuetong3yu/type-challenges/blob/master/collection/if.md)
